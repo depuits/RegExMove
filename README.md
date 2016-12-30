@@ -4,6 +4,7 @@ Moving files matching the given regex into separate folders using one of the mat
 ## Usage
 
 RegExMove [OPTIONS] + regex
+
 If no regex is specified, `^(.+?) - (.+)\.(mp3|wav)$` is used.
 
 ```
