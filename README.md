@@ -1,5 +1,5 @@
 # RegExMove
-Moving files matching the given regex into separate folders using one of the matched regex groups.
+Moving files matching the given regex into separate folders using one of the matched regex groups. The default regex option lets you sort a music folder into sub directories per artist if the files are named 'artist - song.mp3'.
 
 ## Usage
 
